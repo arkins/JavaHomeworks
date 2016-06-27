@@ -1,0 +1,6 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>arkinsWork</groupId>
+    <artifactId>chronicleMap-concurrency-test</artifactId>
+    <version>1</version>
+</project>
