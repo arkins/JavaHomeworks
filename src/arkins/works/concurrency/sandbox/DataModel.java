@@ -15,6 +15,4 @@ public class DataModel {
     public void increaseCount() {
         valueCount = valueCount + 1;
     }
-
-
 }
